@@ -1,6 +1,7 @@
 celonis
 # Celonis - Process Mining
 
+Based on "Celonis - Episodes" at https://www.celonis.com/process-mining/in-the-process-series/
 
 ## 100 - Introduction
 
